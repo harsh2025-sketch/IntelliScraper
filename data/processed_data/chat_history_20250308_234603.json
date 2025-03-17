@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell about data"
+    },
+    {
+        "role": "assistant",
+        "content": "Error: [WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+]

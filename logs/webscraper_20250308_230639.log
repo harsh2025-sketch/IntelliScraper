@@ -1,0 +1,6 @@
+2025-03-08 23:07:02,833 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 23:09:14,825 - parse - ERROR - Error parsing batch 1: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-08 23:09:28,442 - parse - ERROR - Error parsing batch 1: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-08 23:09:46,988 - scrape - ERROR - Error during Google search: search() got an unexpected keyword argument 'pause'
+2025-03-08 23:09:57,518 - scrape - ERROR - Error during Google search: search() got an unexpected keyword argument 'pause'
+2025-03-08 23:10:04,719 - scrape - ERROR - Error during Google search: search() got an unexpected keyword argument 'pause'

@@ -1,0 +1,5 @@
+2025-03-08 22:12:33,549 - scrape - INFO - Scraping website: youtube.com
+2025-03-08 22:12:39,093 - scrape - ERROR - An error occurred while scraping: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to "youtube.com", waiting until "load"
+

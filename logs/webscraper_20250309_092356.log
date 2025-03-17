@@ -1,0 +1,60 @@
+2025-03-09 09:24:02,835 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:24:33,598 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:33,598 - parse - INFO - Retrying after 1.71 seconds...
+2025-03-09 09:24:37,362 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:37,362 - parse - INFO - Retrying after 2.55 seconds...
+2025-03-09 09:24:41,939 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:41,939 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:24:43,959 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:43,959 - parse - INFO - Retrying after 2.00 seconds...
+2025-03-09 09:24:47,980 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:47,980 - parse - INFO - Retrying after 2.79 seconds...
+2025-03-09 09:24:52,779 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:52,779 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:24:54,800 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:54,800 - parse - INFO - Retrying after 1.39 seconds...
+2025-03-09 09:24:58,216 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:24:58,216 - parse - INFO - Retrying after 2.27 seconds...
+2025-03-09 09:25:02,514 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:25:02,514 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:37:15,040 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:38:41,975 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:38:41,975 - parse - INFO - Retrying after 1.70 seconds...
+2025-03-09 09:38:45,712 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:38:45,712 - parse - INFO - Retrying after 2.38 seconds...
+2025-03-09 09:38:50,124 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:38:50,126 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:38:52,186 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:38:52,187 - parse - INFO - Retrying after 1.38 seconds...
+2025-03-09 09:38:55,625 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:38:55,625 - parse - INFO - Retrying after 2.55 seconds...
+2025-03-09 09:39:00,201 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:39:00,201 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:39:02,251 - parse - ERROR - Error parsing chunk (attempt 1): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:39:02,252 - parse - INFO - Retrying after 1.49 seconds...
+2025-03-09 09:39:05,802 - parse - ERROR - Error parsing chunk (attempt 2): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:39:05,803 - parse - INFO - Retrying after 2.09 seconds...
+2025-03-09 09:39:09,967 - parse - ERROR - Error parsing chunk (attempt 3): [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-09 09:39:09,968 - parse - ERROR - All 3 attempts failed for chunk
+2025-03-09 09:40:12,658 - scrape - INFO - Scraping website: https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security
+2025-03-09 09:40:31,362 - scrape - INFO - Scraping website: https://www.cisco.com/site/in/en/learn/topics/security/what-is-cybersecurity.html
+2025-03-09 09:40:51,960 - scrape - INFO - Scraping website: https://www.ibm.com/topics/cybersecurity
+2025-03-09 09:41:09,318 - model - ERROR - Error calling local LLM: [WinError 2] The system cannot find the file specified
+2025-03-09 09:42:19,777 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-03-09 09:42:19,805 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:42:36,974 - scrape - INFO - Scraping website: https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security
+2025-03-09 09:42:41,403 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-03-09 09:42:41,404 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:42:51,244 - scrape - INFO - Scraping website: https://www.cisco.com/site/in/en/learn/topics/security/what-is-cybersecurity.html
+2025-03-09 09:42:54,594 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-03-09 09:42:54,598 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:42:57,332 - scrape - INFO - Scraping website: https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security
+2025-03-09 09:43:05,655 - scrape - INFO - Scraping website: https://www.ibm.com/topics/cybersecurity
+2025-03-09 09:43:07,731 - scrape - INFO - Scraping website: https://www.cisco.com/site/in/en/learn/topics/security/what-is-cybersecurity.html
+2025-03-09 09:43:18,598 - model - ERROR - Error calling local LLM: [WinError 2] The system cannot find the file specified
+2025-03-09 09:43:21,254 - scrape - INFO - Scraping website: https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security
+2025-03-09 09:43:31,261 - scrape - INFO - Scraping website: https://www.cisco.com/site/in/en/learn/topics/security/what-is-cybersecurity.html
+2025-03-09 09:43:35,223 - scrape - INFO - Scraping website: https://www.ibm.com/topics/cybersecurity
+2025-03-09 09:43:44,589 - scrape - INFO - Scraping website: https://www.ibm.com/topics/cybersecurity
+2025-03-09 09:43:56,640 - model - ERROR - Error calling local LLM: [WinError 2] The system cannot find the file specified
+2025-03-09 09:44:00,193 - model - ERROR - Error calling local LLM: [WinError 2] The system cannot find the file specified

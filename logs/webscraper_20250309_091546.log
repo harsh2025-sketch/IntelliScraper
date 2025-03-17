@@ -1,0 +1,3 @@
+2025-03-09 09:16:10,293 - __main__ - ERROR - Error scraping website: scrape_website() got an unexpected keyword argument 'use_proxy'
+2025-03-09 09:19:27,739 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-09 09:20:12,386 - __main__ - ERROR - Error parsing content: parse_with_ollama() got an unexpected keyword argument 'max_retries'

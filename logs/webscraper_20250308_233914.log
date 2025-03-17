@@ -1,0 +1,5 @@
+2025-03-08 23:39:47,554 - scrape - INFO - Scraping website: https://cuchd.in
+2025-03-08 23:39:57,417 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-08 23:40:32,731 - parse - ERROR - Error parsing chunk: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-08 23:40:34,772 - parse - ERROR - Error parsing chunk: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-03-08 23:40:36,818 - parse - ERROR - Error parsing chunk: [WinError 10061] No connection could be made because the target machine actively refused it

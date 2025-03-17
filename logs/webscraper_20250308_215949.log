@@ -1,0 +1,12 @@
+2025-03-08 21:59:54,100 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 22:00:37,142 - scrape - ERROR - An error occurred while scraping: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("body") to be visible
+  -     63 × locator resolved to hidden <body dir="ltr" rounded-container="">…</body>
+
+2025-03-08 22:00:42,755 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 22:01:36,053 - scrape - ERROR - An error occurred while scraping: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("body") to be visible
+  -     63 × locator resolved to hidden <body dir="ltr" rounded-container="">…</body>
+

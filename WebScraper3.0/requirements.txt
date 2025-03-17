@@ -1,0 +1,15 @@
+selenium
+beautifulsoup4
+googlesearch-python
+langchain
+langchain-ollama
+openai
+python-dotenv
+firecrawl
+cohere
+groq
+pandas
+streamlit
+rich
+datetime
+requests

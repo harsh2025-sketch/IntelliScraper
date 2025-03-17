@@ -1,0 +1,17 @@
+2025-03-08 22:04:58,693 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 22:06:10,775 - scrape - ERROR - An error occurred while scraping: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("body") to be visible
+  -     121 × locator resolved to hidden <body dir="ltr" rounded-container="">…</body>
+
+2025-03-08 22:20:38,336 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 22:21:54,434 - scrape - ERROR - An error occurred while scraping: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("body") to be visible
+  -     122 × locator resolved to hidden <body dir="ltr" rounded-container="">…</body>
+
+2025-03-08 22:29:55,485 - scrape - INFO - Scraping website: youtube.com
+2025-03-08 22:30:00,950 - scrape - ERROR - An error occurred while scraping: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to "youtube.com", waiting until "load"
+

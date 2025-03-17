@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "k"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have any data to reference. Please scrape some websites first."
+    }
+]

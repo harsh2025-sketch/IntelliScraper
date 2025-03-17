@@ -1,0 +1,28 @@
+2025-03-08 21:39:49,758 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 21:39:49,762 - scrape - ERROR - An error occurred while scraping: 
+2025-03-08 21:39:49,840 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=NotImplementedError()>
+Traceback (most recent call last):
+  File "D:\AI models\webscrapper 3.0\WebScraper3.0\src\scrape.py", line 46, in scrape_website
+    with sync_playwright() as p:
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\sync_api\_context_manager.py", line 77, in __enter__
+    dispatcher_fiber.switch()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\sync_api\_context_manager.py", line 56, in greenlet_main
+    self._loop.run_until_complete(self._connection.run_as_sync())
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 641, in run_until_complete
+    return future.result()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\_impl\_connection.py", line 270, in run_as_sync
+    await self.run()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\_impl\_connection.py", line 279, in run
+    await self._transport.connect()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\_impl\_transport.py", line 133, in connect
+    raise exc
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\playwright\_impl\_transport.py", line 120, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\asyncio\subprocess.py", line 218, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1652, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 493, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError

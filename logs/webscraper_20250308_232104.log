@@ -1,0 +1,2 @@
+2025-03-08 23:21:11,513 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 23:21:51,485 - scrape - ERROR - Error during Google search: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dcybersecurity%26num%3D12%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgTLkY5WGLOHsr4GIjCTBxVhkGmnTd_prX7Jbf90gBnQPD4reuQ9_ZWlubRZqmoFC5i6WJtw1ejcT2lfQLAyAXJaAUM

@@ -1,0 +1,32 @@
+2025-03-08 23:29:04,538 - scrape - INFO - Scraping website: cuchd.in
+2025-03-08 23:29:06,765 - scrape - ERROR - An error occurred while scraping: Message: invalid argument
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70A1FDF85+26693]
+	(No symbol) [0x00007FF70A15EAD0]
+	(No symbol) [0x00007FF709FE8FFC]
+	(No symbol) [0x00007FF709FD5D71]
+	(No symbol) [0x00007FF709FD4166]
+	(No symbol) [0x00007FF709FD47DC]
+	(No symbol) [0x00007FF709FED01A]
+	(No symbol) [0x00007FF70A090F4E]
+	(No symbol) [0x00007FF70A0678EA]
+	(No symbol) [0x00007FF70A0900B8]
+	(No symbol) [0x00007FF70A0676C3]
+	(No symbol) [0x00007FF70A030490]
+	(No symbol) [0x00007FF70A031743]
+	GetHandleVerifier [0x00007FF70A55436D+3525677]
+	GetHandleVerifier [0x00007FF70A567F3B+3606523]
+	GetHandleVerifier [0x00007FF70A55CEE3+3561379]
+	GetHandleVerifier [0x00007FF70A2C7C0A+853194]
+	(No symbol) [0x00007FF70A16990F]
+	(No symbol) [0x00007FF70A165674]
+	(No symbol) [0x00007FF70A165816]
+	(No symbol) [0x00007FF70A154D89]
+	BaseThreadInitThunk [0x00007FFE9A6CE8D7+23]
+	RtlUserThreadStart [0x00007FFE9B5FBF6C+44]
+
+2025-03-08 23:29:18,526 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 23:29:43,630 - scrape - INFO - Scraping website: https://youtube.com
+2025-03-08 23:29:52,545 - scrape - INFO - Scraping website: https://www.cuchd.in
+2025-03-08 23:30:42,530 - __main__ - ERROR - Error parsing content: Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'str'>
