@@ -22,12 +22,12 @@
 
 ## ✨ Features
 
-- 🔍 **Multi-Mode**: URL scraping, Google search integration, interactive chat
+- 🔍 **Simple Interface**: Clean, intuitive Streamlit UI
 - 🤖 **AI-Powered**: Extract structured data using LLM models
-- 📊 **Data Export**: Save in JSON, CSV, and text formats
-- 🛡️ **Anti-Bot**: Proxy support, user-agent rotation, intelligent delays
-- 💬 **Interactive**: Query scraped data using natural language
-- 📝 **Auto-Logging**: Comprehensive operation tracking
+- 📊 **Auto-Save**: All data automatically saved
+- 🛡️ **Anti-Bot**: User-agent rotation, intelligent delays
+- 💾 **Local Storage**: Data saved in organized folders
+- 📝 **Logging**: Track all operations
 
 ## 🚀 Quick Start
 
@@ -36,13 +36,15 @@
 git clone https://github.com/harsh2025-sketch/webscraper-3.0.git
 cd webscraper-3.0
 
-# Quick setup (Windows)
-run.bat
-
-# OR Manual setup
+# Setup environment
 python -m venv venv
-venv\Scripts\activate
+venv\Scripts\activate  # Windows
+source venv/bin/activate  # Linux/Mac
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run main.py
 ```
 
@@ -63,21 +65,23 @@ GROQ_API_KEY=your_key
 
 ## 💡 Usage
 
-**URL Scraping**: Enter URL → Scrape → Describe extraction → Parse  
-**Search Query**: Enter term → Enable auto-scrape → View AI analysis  
-**Chat Mode**: Scrape data → Ask questions → Get AI answers
+**Simple 2-Step Process:**
+1. Enter website URL → Click "Scrape Website"
+2. Describe what to extract → Click "Extract"
+
+All data is automatically saved in the `data/` folder.
 
 ## 🏗️ Project Structure
 
 ```
 IntelliScraper/
-├── main.py           # Streamlit application
-├── scrape.py         # Selenium + BeautifulSoup
-├── parse.py          # AI parsing engine
-├── model.py          # AI model integrations
-├── utils.py          # Utilities & logging
+├── main.py           # Simple Streamlit UI
+├── scrape.py         # Web scraping engine
+├── parse.py          # AI parsing
+├── model.py          # AI models
+├── utils.py          # Utilities
 ├── requirements.txt  # Dependencies
-└── setup.py         # Automated setup
+└── setup.py         # Setup script
 ```
 
 ## 📊 Data Storage
