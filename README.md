@@ -107,17 +107,11 @@ Fork → Create branch → Commit → Push → Pull Request
 ## 📄 License
 
 MIT License
-
-## 👤 Author
-
-**Harsh** • [@harsh2025-sketch](https://github.com/harsh2025-sketch)
-
 ---
 
 <div align="center">
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
-Made with ❤️ by Harsh
 
 </div>
